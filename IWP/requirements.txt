@@ -1,0 +1,8 @@
+PyQt5
+dialogflow==0.6.0
+SpeechRecognition==3.8.1
+google-cloud-texttospeech
+pydub
+pyaudio
+PySide2
+google-cloud-core
