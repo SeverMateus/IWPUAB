@@ -5,9 +5,9 @@ This is a Master Thesis Project for a Virtual Assistant for International Welcom
 #### Features
 - Gives Information to students, teachers and administrative personnel, and services provenient to other countries; 
 - Gives the new students a welcome to Barcelona and the UAB;
-- Answers doubts regarding academy life, residency, and 
+- Answers doubts regarding academy life and residency;
 - Gives general information regarding legal procedures for extra-community citizens;
-- Can check if the International Welcome Point offices are Open or Closed, and allows to schedule a cita that will be passed to the person's email with a reminder.
+- Can check if the International Welcome Point offices are Open or Closed, and allows to schedule a meeting that will be passed to the person's email with a reminder.
 
 
 
@@ -19,7 +19,7 @@ Push to Talk communication with the Virtual Assistant.
 
 ## Deployment
 
-You can download the latest version [here](https://github.com/severmateus/IWPUAB/releases) for Windows, Mac and Linux.
+You can download the latest version [here](https://github.com/severmateus/iwpuab/releases) for Windows, Mac and Linux.
 
 Windows: Install - Execute by Shortcut.
 Mac: Open DMG - Open App.
@@ -52,8 +52,8 @@ Simply a step by step series of examples that tell you how to get a development 
 Say what the step will be
 
 ```bash
-git clone https://github.com/severmateus/IWPUAB.git
-cd IWPUAB/IWP
+git clone https://github.com/severmateus/iwpuab.git
+cd iwpuab/IWP
 pip install -r requirements.txt 
 python iwpuab/Main.py
 ```
